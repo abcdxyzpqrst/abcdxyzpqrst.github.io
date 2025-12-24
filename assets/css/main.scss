@@ -72,6 +72,11 @@ html {
 
 /* ========== 커스텀 스타일 ========== */
 
+/* 페이지 제목 숨기기 (About Me 중복 방지) */
+.page__title {
+  display: none;
+}
+
 /* 상단 여백 줄이기 */
 .page__content {
   margin-top: 0;
