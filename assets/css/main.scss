@@ -71,6 +71,11 @@ html {
 }
 
 /* ========== Jaeyun Song 스타일 여백 ========== */
+.page__title {
+  font-size: $h-size-3 !important;  /* h3 크기 (1.125em) */
+  margin-top: 0;
+}
+
 .page__inner-wrap {
   margin-top: 1em;
 }

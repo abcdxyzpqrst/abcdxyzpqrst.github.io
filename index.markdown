@@ -36,6 +36,7 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 - **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
 
+---
 
 ### Publications
 
