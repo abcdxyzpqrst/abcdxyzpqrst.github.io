@@ -26,11 +26,11 @@ I am a Ph.D. student at KAIST. My research interests include:
 
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
 <a href="#">[paper]</a> \\
-<u>Jihun Yun<u>, Aurélie C. Lozano, Eunho Yang
+<u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
 
 - **Revised NTK Analysis of Optimization and Generalization with Its Extensions to Arbitrary Initialization** \\
 <a href="#">[paper]</a> \\
-<u>Jihun Yun<u>, Kyung-su Kim, Eunho Yang
+<u>Jihun Yun</u>, Kyung-su Kim, Eunho Yang
 
 - **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
 
@@ -39,12 +39,12 @@ I am a Ph.D. student at KAIST. My research interests include:
 
 - **Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model** \\
 <a href="#">[paper]</a> \\
-<u>Jihun Yun<u>\*, Juno Kim\*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun (*: equal contribution) \\
-<span style="color:darkred"> **ICML 2025 MoFA Workshop**</span> 2025
+<u>Jihun Yun</u>\*, Juno Kim\*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun (*: equal contribution) \\
+<span style="color:darkred">**ICML 2025 MoFA Workshop**</span> 2025
 
 - **LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding** \\
 <a href="#">[paper]</a> \\
-Doohyuk Jang, Sihwan Park, June Yong Yang, Yeonsung Jung, <u>Jihun Yun<u>, Souvik Kundu, Sung-Yub Kim, Eunho Yang \\
+Doohyuk Jang, Sihwan Park, June Yong Yang, Yeonsung Jung, <u>Jihun Yun</u>, Souvik Kundu, Sung-Yub Kim, Eunho Yang \\
 <span style="color:darkred">**ICLR**</span> 2025
 
 - **TEDDY: Trimming Edges with Degree-based Discrimination StrategY** \\
