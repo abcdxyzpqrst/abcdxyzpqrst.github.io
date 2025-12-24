@@ -15,9 +15,12 @@ I am a Ph.D. student at KAIST. My research interests include:
 
 ### Education
 
-- **Ph.D.** in Graduate School of AI, KAIST, Mar. 2020 ~ Feb. 2025
-- **M.S.** in School of Computing, KAIST, Mar. 2018 ~ Feb. 2020
-- **B.S.** in Mathematical Science & School of Computing, KAIST, Feb. 2012 ~ Feb. 2018 
+- **Ph.D.** in Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST) \\
+*Mar. 2020 ~ Feb. 2025*
+- **M.S.** in School of Computing, Korea Advanced Institute of Science and Technology (KAIST) \\
+*Mar. 2018 ~ Feb. 2020*
+- **B.S.** in Mathematical Science & School of Computing, Korea Advanced Institute of Science and Technology (KAIST) \\ 
+*Feb. 2012 ~ Feb. 2018*
 
 ---
 
