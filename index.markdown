@@ -1,11 +1,10 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About Me"
+title: ""
 author_profile: true
 ---
 
-## About Me
+### About Me
 
 I am a Ph.D. student at KAIST. My research interests include:
 
