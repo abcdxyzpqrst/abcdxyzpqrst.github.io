@@ -71,10 +71,22 @@ html {
 }
 
 /* ========== 커스텀 스타일 ========== */
+
+/* 상단 여백 줄이기 */
 .page__content {
+  margin-top: 0;
+
   p, li, dl {
     font-size: 1em;
   }
+
+  h3:first-child {
+    margin-top: 0;
+  }
+}
+
+.page__inner-wrap {
+  margin-top: 0;
 }
 
 .author__bio {

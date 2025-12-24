@@ -1,10 +1,11 @@
 ---
-layout: single
+permalink: /
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
-title: ""
 ---
 
-### About Me
+## About Me
 
 I am a Ph.D. student at KAIST. My research interests include:
 
@@ -30,7 +31,7 @@ I am a Ph.D. student at KAIST. My research interests include:
 
 - **Revised NTK Analysis of Optimization and Generalization with Its Extensions to Arbitrary Initialization** \\
 <!-- <a href="#">[paper]</a> \\ -->
-<u>Jihun Yun</u>, Kyung-su Kim, Eunho Yang
+<u>Jihun Yun</u>, Kyungsu Kim, Eunho Yang
 
 - **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
 
