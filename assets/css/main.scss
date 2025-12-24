@@ -4,16 +4,19 @@
 
 @charset "utf-8";
 
-/* 폰트 패밀리 */
+/* ========== 폰트 설정 ========== */
+$serif: Georgia, Times, serif !default;
 $sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
   "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace: Monaco, Consolas, "Lucida Console", monospace !default;
+
 $global-font-family: $sans-serif !default;
 $header-font-family: $sans-serif !default;
+$caption-font-family: $serif !default;
 
-/* 기본 폰트 크기 */
+/* ========== 타입 스케일 ========== */
 $doc-font-size: 16 !default;
 
-/* 타입 스케일 */
 $type-size-1: 2.157em !default;  // ~39px
 $type-size-2: 1.725em !default;  // ~31px
 $type-size-3: 1.375em !default;  // ~25px
@@ -28,8 +31,39 @@ $h-size-1: 1.563em !default;  // ~25px
 $h-size-2: 1.25em !default;   // ~20px
 $h-size-3: 1.125em !default;  // ~18px
 $h-size-4: 1.0625em !default; // ~17px
-$h-size-5: 1.03125em !default;// ~16.5px
+$h-size-5: 1.03125em !default;
 $h-size-6: 1em !default;      // ~16px
+
+/* ========== 레이아웃 (반응형 브레이크포인트) ========== */
+$small: 600px !default;
+$medium: 768px !default;
+$medium-wide: 900px !default;
+$large: 925px !default;
+$x-large: 1280px !default;
+
+/* ========== 사이드바 너비 ========== */
+$right-sidebar-width-narrow: 150px !default;
+$right-sidebar-width: 250px !default;
+$right-sidebar-width-wide: 350px !default;
+
+/* ========== 기타 UI ========== */
+$border-radius: 4px !default;
+$global-transition: all 0.2s ease-in-out !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+/* ========== 커스텀 스타일 ========== */
+.page__content {
+  p, li, dl {
+    font-size: 0.95em;
+  }
+}
+
+.author__bio {
+  font-size: 0.85em;
+}
+
+.sidebar {
+  font-size: 0.9em;
+}
