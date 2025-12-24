@@ -70,29 +70,15 @@ html {
   }
 }
 
-/* ========== 커스텀 스타일 ========== */
-
-/* 페이지 제목 숨기기 (About Me 중복 방지) */
-.page__title,
-.page__content > h2:first-child {
-  display: none;
+/* ========== Jaeyun Song 스타일 여백 ========== */
+.page__inner-wrap {
+  margin-top: 1em;
 }
 
-/* 상단 여백 줄이기 */
 .page__content {
-  margin-top: 0;
-
   p, li, dl {
     font-size: 1em;
   }
-
-  h3:first-child {
-    margin-top: 0;
-  }
-}
-
-.page__inner-wrap {
-  margin-top: 0;
 }
 
 .author__bio {
