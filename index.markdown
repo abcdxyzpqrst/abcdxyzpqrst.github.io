@@ -5,7 +5,7 @@ author_profile: true
 
 ### About Me
 
-I am a Ph.D. student at KAIST. My research interests include:
+I'm a researcher in the Core Research Team @ KRAFTON. My research interests include:
 
 - Deep Learning Optimization
 - Efficient ML
@@ -19,7 +19,7 @@ I am a Ph.D. student at KAIST. My research interests include:
 *Mar. 2020 ~ Feb. 2025*
 - **M.S.** in School of Computing, Korea Advanced Institute of Science and Technology (KAIST) \\
 *Mar. 2018 ~ Feb. 2020*
-- **B.S.** in Mathematical Science & School of Computing, Korea Advanced Institute of Science and Technology (KAIST) \\ 
+- **B.S.** in Mathematical Science & School of Computing, Korea Advanced Institute of Science and Technology (KAIST) \\
 *Feb. 2012 ~ Feb. 2018*
 
 ---
