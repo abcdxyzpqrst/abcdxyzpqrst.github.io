@@ -3,6 +3,7 @@ layout: single
 permalink: /
 title: "About Me"
 author_profile: true
+classes: wide
 ---
 
 I'm a researcher in the Core Research Team @ KRAFTON. My research interests include:
