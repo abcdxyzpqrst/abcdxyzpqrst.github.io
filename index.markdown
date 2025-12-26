@@ -86,5 +86,6 @@ Jung Hyun Lee\*, <u>Jihun Yun</u>\*, Sung Ju Hwang, Eunho Yang (*: equal contrib
 
 ### Invited Talks
 
+- **Adaptive Proximal Gradient Methods for Structured Neural Networks**, SIAM, 2022.
 <!-- 발표가 있으면 아래 형식으로 추가하세요 -->
 <!-- - **발표 제목**, 장소/행사명, 날짜 -->

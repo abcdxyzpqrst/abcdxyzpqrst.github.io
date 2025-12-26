@@ -15,7 +15,7 @@ remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko"
+locale                   : "en-US"
 title                    : "Jihun Yun"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -95,8 +95,8 @@ analytics:
 author:
   name             : "Jihun Yun"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D Student at KAIST"
-  location         : "Daejeon, South Korea"
+  bio              : "Researcher at KRAFTON"
+  location         : "Seoul, South Korea"
   email            : "arcprime719@gmail.com"
   links:
     - label: "Email"
