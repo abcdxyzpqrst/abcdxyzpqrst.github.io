@@ -89,5 +89,12 @@ Jung Hyun Lee\*, <u>Jihun Yun</u>\*, Sung Ju Hwang, Eunho Yang (*: equal contrib
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds**, SIAM (to appear), 2026.
 
 - **Adaptive Proximal Gradient Methods for Structured Neural Networks**, SIAM, 2022.
-<!-- 발표가 있으면 아래 형식으로 추가하세요 -->
-<!-- - **발표 제목**, 장소/행사명, 날짜 -->
+
+---
+
+### Software
+
+- **Megatron-Dion**: Efficient implementations of Dion optimizer under Megatron-Core backend \\
+<a href="https://github.com/krafton-ai/Megatron-Dion">[code]</a>
+<!-- 소프트웨어/오픈소스 프로젝트를 아래 형식으로 추가하세요 -->
+<!-- - **프로젝트명**: 설명 <a href="https://github.com/...">[code]</a> -->
