@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Jihun Yun"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/jihun-yun.jpg"
   bio              : "Researcher at KRAFTON"
   location         : "Seoul, South Korea"
   email            : "arcprime719@gmail.com"
