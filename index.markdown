@@ -15,7 +15,8 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 ---
 
 ### Career
-- Researcher in Core Research Team @ **KRAFTON AI**
+- Researcher in Core Research Team @ **KRAFTON AI** \\
+* Mar. 2025 ~ Current *
 
 ### Education
 
