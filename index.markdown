@@ -14,6 +14,9 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ---
 
+### Career
+- Researcher in Core Research Team @ **KRAFTON AI**
+
 ### Education
 
 - **Ph.D.** in Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST) \\
@@ -25,7 +28,10 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ---
 
-### Working Papers
+### Preprints
+
+- **Coverage Improvement and Fast Convergence of On-policy Preference Learning** \\
+Juno Kim, <u>Jihun Yun</u>, Jason D. Lee, Kwang-Sung Jun
 
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
 <!-- <a href="#">[paper]</a> \\ -->
