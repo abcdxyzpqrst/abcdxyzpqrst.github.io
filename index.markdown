@@ -31,6 +31,10 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ### Preprints
 
+- **Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization** \\
+<a href="https://arxiv.org/abs/2602.06385">[paper]</a> \\
+Changmin Kang\*, <u>Jihun Yun</u>\*, Baekrok Shin, Yeseul Cho, Chulhee Yun (*: equal contribution)
+
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
 <!-- <a href="#">[paper]</a> \\ -->
 <u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
