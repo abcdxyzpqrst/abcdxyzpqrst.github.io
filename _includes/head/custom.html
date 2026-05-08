@@ -13,3 +13,28 @@ MathJax = {
 };
 </script>
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" async></script>
+
+<script>
+(function () {
+  function removeHeaderPermalinks() {
+    document.querySelectorAll('.page__content .header-link').forEach(function (link) {
+      link.remove();
+    });
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    removeHeaderPermalinks();
+    window.setTimeout(removeHeaderPermalinks, 250);
+
+    var content = document.querySelector('.page__content');
+    if (content && 'MutationObserver' in window) {
+      new MutationObserver(removeHeaderPermalinks).observe(content, {
+        childList: true,
+        subtree: true
+      });
+    }
+  });
+
+  window.addEventListener('load', removeHeaderPermalinks);
+})();
+</script>
