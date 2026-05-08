@@ -15,8 +15,8 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 ---
 
 ### Career
-- Researcher in Core Research Team @ **KRAFTON AI** \\
-* Mar. 2025 ~ Current *
+- Researcher in Core Research Team @ **KRAFTON AI**<br>
+  *Mar. 2025 ~ Current*
 
 ### Education
 
@@ -31,9 +31,6 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ### Preprints
 
-- **Coverage Improvement and Fast Convergence of On-policy Preference Learning** \\
-Juno Kim, <u>Jihun Yun</u>, Jason D. Lee, Kwang-Sung Jun
-
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
 <!-- <a href="#">[paper]</a> \\ -->
 <u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
@@ -42,11 +39,18 @@ Juno Kim, <u>Jihun Yun</u>, Jason D. Lee, Kwang-Sung Jun
 <!-- <a href="#">[paper]</a> \\ -->
 <u>Jihun Yun</u>, Kyungsu Kim, Eunho Yang
 
-- **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale**
+- **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale** \\
+<a href="https://arxiv.org/abs/2501.19099">[paper]</a> \\
+Sihwan Park\*, <u>Jihun Yun</u>\*, SungYub Kim, Souvik Kundu, Eunho Yang (*: equal contribution)
 
 ---
 
 ### Publications
+
+- **Coverage Improvement and Fast Convergence of On-policy Preference Learning** \\
+<a href="https://arxiv.org/abs/2601.08421">[paper]</a> \\
+Juno Kim, <u>Jihun Yun</u>, Jason D. Lee, Kwang-Sung Jun \\
+<span style="color:darkred">**ICML**</span> 2026
 
 - **Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model** \\
 <a href="https://arxiv.org/pdf/2506.01523">[paper]</a> \\
