@@ -31,6 +31,9 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ### Preprints
 
+- **Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization** \\
+<u>Jihun Yun</u>\*, Sungjoon Yoon\*, Beomhan Baek, Minhak Song, Jongha Jon Ryu, Kwang-Sung Jun (*: equal contribution)
+
 - **AMUSE: Anytime Muon with Stable Gradient Evaluation** \\
 Jueun Kim, Baekrok Shin, <u>Jihun Yun</u>, Beomhan Baek, Minhak Song, Chulhee Yun
 
