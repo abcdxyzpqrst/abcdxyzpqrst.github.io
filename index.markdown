@@ -35,6 +35,10 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 <a href="https://arxiv.org/abs/2602.06385">[paper]</a> \\
 Changmin Kang\*, <u>Jihun Yun</u>\*, Baekrok Shin, Yeseul Cho, Chulhee Yun (*: equal contribution)
 
+- **THINKSAFE: Self-Generated Safety Alignment for Reasoning Models** \\
+<a href="https://arxiv.org/abs/2601.23143">[paper]</a> \\
+Seanie Lee, Sangwoo Park, Yumin Choi, Gyeongman Kim, Minki Kang, <u>Jihun Yun</u>, Dongmin Park, Jongho Park, Sung Ju Hwang
+
 - **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
 <!-- <a href="#">[paper]</a> \\ -->
 <u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
