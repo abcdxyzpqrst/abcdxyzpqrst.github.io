@@ -31,6 +31,12 @@ I'm a researcher in the Core Research Team @ KRAFTON. My research interests incl
 
 ### Preprints
 
+- **AMUSE: Anytime Muon with Stable Gradient Evaluation** \\
+Jueun Kim, Baekrok Shin, <u>Jihun Yun</u>, Beomhan Baek, Minhak Song, Chulhee Yun
+
+- **Pruning and Distilling Mixture-of-Experts into Dense Language Models** \\
+Junhyuck Kim, <u>Jihun Yun</u>, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho
+
 - **Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization** \\
 <a href="https://arxiv.org/abs/2602.06385">[paper]</a> \\
 Changmin Kang\*, <u>Jihun Yun</u>\*, Baekrok Shin, Yeseul Cho, Chulhee Yun (*: equal contribution)
@@ -39,17 +45,19 @@ Changmin Kang\*, <u>Jihun Yun</u>\*, Baekrok Shin, Yeseul Cho, Chulhee Yun (*: e
 <a href="https://arxiv.org/abs/2601.23143">[paper]</a> \\
 Seanie Lee, Sangwoo Park, Yumin Choi, Gyeongman Kim, Minki Kang, <u>Jihun Yun</u>, Dongmin Park, Jongho Park, Sung Ju Hwang
 
-- **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
-<!-- <a href="#">[paper]</a> \\ -->
-<u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
-
-- **Revised NTK Analysis of Optimization and Generalization with Its Extensions to Arbitrary Initialization** \\
-<!-- <a href="#">[paper]</a> \\ -->
-<u>Jihun Yun</u>, Kyungsu Kim, Eunho Yang
-
 - **Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale** \\
 <a href="https://arxiv.org/abs/2501.19099">[paper]</a> \\
 Sihwan Park\*, <u>Jihun Yun</u>\*, SungYub Kim, Souvik Kundu, Eunho Yang (*: equal contribution)
+
+---
+
+### Working Papers
+
+- **Riemannian Stochastic Proximal Methods Meet Adaptive Gradients over Matrix Manifolds** \\
+<u>Jihun Yun</u>, Aurélie C. Lozano, Eunho Yang
+
+- **Revised NTK Analysis of Optimization and Generalization with Its Extensions to Arbitrary Initialization** \\
+<u>Jihun Yun</u>, Kyungsu Kim, Eunho Yang
 
 ---
 
