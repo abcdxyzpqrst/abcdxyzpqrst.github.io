@@ -6,11 +6,13 @@ author_profile: true
 classes: wide
 ---
 
-I'm a researcher in the Core Research Team @ KRAFTON. My research interests include:
+<p class="intro">
+I am a researcher in the Core Research Team at KRAFTON AI. My work focuses on optimization and learning algorithms for modern machine learning systems, with an emphasis on deep learning optimization, efficient ML, and preference/policy optimization.
+</p>
 
-- Deep Learning Optimization
-- Efficient ML
-- Preference Optimization
+<p class="intro">
+Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, where I worked on optimization methods for structured neural networks, Riemannian optimization, and theoretical analyses of training dynamics. I am broadly interested in methods that are theoretically grounded while remaining practical at scale.
+</p>
 
 ---
 

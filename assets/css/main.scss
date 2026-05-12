@@ -81,6 +81,25 @@ html {
   }
 }
 
+.page__content .intro {
+  max-width: 48rem;
+  line-height: 1.65;
+}
+
+.page__content h3 {
+  margin-top: 1.7em;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #f2f3f3;
+}
+
+.page__content > ul {
+  margin-bottom: 1.2em;
+}
+
+.page__content > ul > li {
+  margin-bottom: 0.8em;
+}
+
 .page__content .header-link {
   display: none !important;
 }
