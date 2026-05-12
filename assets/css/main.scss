@@ -100,6 +100,60 @@ html {
   margin-bottom: 0.8em;
 }
 
+.page__content .paper-list {
+  margin-left: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.page__content .paper-list > li {
+  margin-bottom: 1.15em;
+}
+
+.paper-title {
+  color: #222;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.paper-authors {
+  margin-top: 0.2em;
+  color: #555;
+  font-size: 0.93em;
+  line-height: 1.45;
+}
+
+.author-me {
+  color: #111;
+  font-weight: 700;
+  border-bottom: 1px solid #111;
+}
+
+.paper-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35em 0.55em;
+  margin-top: 0.25em;
+  color: #666;
+  font-size: 0.9em;
+  line-height: 1.4;
+}
+
+.paper-venue {
+  color: #8a1111;
+  font-weight: 700;
+}
+
+.paper-note {
+  color: #666;
+}
+
+.paper-link {
+  font-weight: 600;
+  white-space: nowrap;
+}
+
 .page__content .header-link {
   display: none !important;
 }
