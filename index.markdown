@@ -140,6 +140,14 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, where I 
 
 ---
 
+### Academic Service
+
+- **Reviewer**: ICML, NeurIPS, ICLR, AISTATS, TMLR
+
+- **Gold Reviewer**, ICML 2026 (Top 25%)
+
+---
+
 ### Software
 
 - **Megatron-Dion**: Efficient implementations of Dion optimizer under Megatron-Core backend \\
