@@ -11,7 +11,7 @@ I am a researcher in the Core Research Team at KRAFTON AI. My work focuses on op
 </p>
 
 <p class="intro">
-Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised by Eunho Yang. There, I worked on theoretically motivated optimization algorithms for structured neural networks, Riemannian optimization, and analyses of training dynamics. I am broadly interested in methods that are theoretically grounded while remaining practical at scale.
+Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised by Eunho Yang. My doctoral research focused on theoretically motivated optimization algorithms for structured neural networks, Riemannian optimization, and analyses of training dynamics. I am broadly interested in methods that are theoretically grounded while remaining practical at scale.
 </p>
 
 ---
