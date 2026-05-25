@@ -75,11 +75,6 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
 
 <ul class="paper-list">
   <li>
-    <div class="paper-title">Coverage Improvement and Fast Convergence of On-policy Preference Learning</div>
-    <div class="paper-authors">Juno Kim, <span class="author-me">Jihun Yun</span>, Jason D. Lee, Kwang-Sung Jun</div>
-    <div class="paper-meta"><span class="paper-venue">ICML 2026</span><a class="paper-link" href="https://arxiv.org/abs/2601.08421">[paper]</a></div>
-  </li>
-  <li>
     <div class="paper-title">AMUSE: Anytime Muon with Stable Gradient Evaluation</div>
     <div class="paper-authors">Jueun Kim, Baekrok Shin, <span class="author-me">Jihun Yun</span>, Beomhan Baek, Minhak Song, Chulhee Yun</div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026 HiLD Workshop</span><a class="paper-link" href="https://sites.google.com/view/hidimlearning/home">[workshop]</a></div>
@@ -88,6 +83,11 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
     <div class="paper-title">Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA</div>
     <div class="paper-authors">Changmin Kang*, <span class="author-me">Jihun Yun</span>*, Baekrok Shin, Yeseul Cho, Chulhee Yun <span class="paper-note">(*: equal contribution)</span></div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026 HiLD Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2602.06385">[paper]</a><a class="paper-link" href="https://sites.google.com/view/hidimlearning/home">[workshop]</a></div>
+  </li>
+  <li>
+    <div class="paper-title">Coverage Improvement and Fast Convergence of On-policy Preference Learning</div>
+    <div class="paper-authors">Juno Kim, <span class="author-me">Jihun Yun</span>, Jason D. Lee, Kwang-Sung Jun</div>
+    <div class="paper-meta"><span class="paper-venue">ICML 2026</span><a class="paper-link" href="https://arxiv.org/abs/2601.08421">[paper]</a></div>
   </li>
   <li>
     <div class="paper-title">Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model</div>
