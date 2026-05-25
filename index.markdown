@@ -41,15 +41,16 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
   <li>
     <div class="paper-title">AMUSE: Anytime Muon with Stable Gradient Evaluation</div>
     <div class="paper-authors">Jueun Kim, Baekrok Shin, <span class="author-me">Jihun Yun</span>, Beomhan Baek, Minhak Song, Chulhee Yun</div>
+    <div class="paper-meta"><span class="paper-venue">HiLD Workshop, ICML 2026</span><a class="paper-link" href="https://sites.google.com/view/hidimlearning/home">[workshop]</a></div>
   </li>
   <li>
     <div class="paper-title">Pruning and Distilling Mixture-of-Experts into Dense Language Models</div>
     <div class="paper-authors">Junhyuck Kim, <span class="author-me">Jihun Yun</span>, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho</div>
   </li>
   <li>
-    <div class="paper-title">Uniform Spectral Growth and Convergence of Muon in LoRA-Style Matrix Factorization</div>
+    <div class="paper-title">Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA</div>
     <div class="paper-authors">Changmin Kang*, <span class="author-me">Jihun Yun</span>*, Baekrok Shin, Yeseul Cho, Chulhee Yun <span class="paper-note">(*: equal contribution)</span></div>
-    <div class="paper-meta"><a class="paper-link" href="https://arxiv.org/abs/2602.06385">[paper]</a></div>
+    <div class="paper-meta"><span class="paper-venue">HiLD Workshop, ICML 2026</span><a class="paper-link" href="https://arxiv.org/abs/2602.06385">[paper]</a><a class="paper-link" href="https://sites.google.com/view/hidimlearning/home">[workshop]</a></div>
   </li>
   <li>
     <div class="paper-title">THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</div>
