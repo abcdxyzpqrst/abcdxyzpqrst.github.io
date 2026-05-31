@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <p class="intro">
-I am a researcher in the Core Research Team at KRAFTON AI. My work focuses on optimization and learning algorithms for modern machine learning systems, with an emphasis on deep learning optimization, efficient ML, and preference/policy optimization.
+I am a researcher in the AI Model Research Department at KRAFTON AI. My work focuses on optimization and learning algorithms for modern machine learning systems, with an emphasis on deep learning optimization, theory-driven core algorithms for foundation models, efficient ML, and preference/policy optimization.
 </p>
 
 <p class="intro">
@@ -17,7 +17,7 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
 ---
 
 ### Career
-- Researcher in Core Research Team @ **KRAFTON AI**<br>
+- Researcher in AI Model Research Department @ **KRAFTON AI**<br>
   *Mar. 2025 ~ Current*
 
 ### Education
@@ -37,10 +37,6 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
   <li>
     <div class="paper-title">Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization</div>
     <div class="paper-authors"><span class="author-me">Jihun Yun</span>*, Sungjoon Yoon*, Beomhan Baek, Minhak Song, Jongha Jon Ryu, Kwang-Sung Jun <span class="paper-note">(*: equal contribution)</span></div>
-  </li>
-  <li>
-    <div class="paper-title">Pruning and Distilling Mixture-of-Experts into Dense Language Models</div>
-    <div class="paper-authors">Junhyuck Kim, <span class="author-me">Jihun Yun</span>, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho</div>
   </li>
   <li>
     <div class="paper-title">THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</div>
@@ -85,6 +81,11 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
     <div class="paper-meta"><span class="paper-venue">ICML 2026 HiLD Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2605.22432">[paper]</a></div>
   </li>
   <li>
+    <div class="paper-title">Pruning and Distilling Mixture-of-Experts into Dense Language Models</div>
+    <div class="paper-authors">Junhyuck Kim, <span class="author-me">Jihun Yun</span>, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho</div>
+    <div class="paper-meta"><span class="paper-venue">ICML 2026 AdaptFM Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2605.28207">[paper]</a></div>
+  </li>
+  <li>
     <div class="paper-title">Coverage Improvement and Fast Convergence of On-policy Preference Learning</div>
     <div class="paper-authors">Juno Kim, <span class="author-me">Jihun Yun</span>, Jason D. Lee, Kwang-Sung Jun</div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026</span><a class="paper-link" href="https://arxiv.org/abs/2601.08421">[paper]</a></div>
@@ -92,7 +93,7 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
   <li>
     <div class="paper-title">Alignment as Distribution Learning: Your Preference Model is Explicitly a Language Model</div>
     <div class="paper-authors"><span class="author-me">Jihun Yun</span>*, Juno Kim*, Jongho Park, Junhyuck Kim, Jongha Jon Ryu, Jaewoong Cho, Kwang-Sung Jun <span class="paper-note">(*: equal contribution)</span></div>
-    <div class="paper-meta"><span class="paper-venue">ICML 2025 MoFA Workshop</span><a class="paper-link" href="https://arxiv.org/pdf/2506.01523">[paper]</a></div>
+    <div class="paper-meta"><span class="paper-venue">ICML 2025 MoFA Workshop</span><span class="paper-venue">COLT 2025 FoPt Workshop</span><a class="paper-link" href="https://arxiv.org/pdf/2506.01523">[paper]</a></div>
   </li>
   <li>
     <div class="paper-title">LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding</div>
