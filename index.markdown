@@ -35,15 +35,6 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
 
 <ul class="paper-list">
   <li>
-    <div class="paper-title">Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization</div>
-    <div class="paper-authors"><span class="author-me">Jihun Yun</span>*, Sungjoon Yoon*, Beomhan Baek, Minhak Song, Jongha Jon Ryu, Kwang-Sung Jun <span class="paper-note">(*: equal contribution)</span></div>
-  </li>
-  <li>
-    <div class="paper-title">THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</div>
-    <div class="paper-authors">Seanie Lee, Sangwoo Park, Yumin Choi, Gyeongman Kim, Minki Kang, <span class="author-me">Jihun Yun</span>, Dongmin Park, Jongho Park, Sung Ju Hwang</div>
-    <div class="paper-meta"><a class="paper-link" href="https://arxiv.org/abs/2601.23143">[paper]</a></div>
-  </li>
-  <li>
     <div class="paper-title">Elucidating Subspace Perturbation in Zeroth-Order Optimization: Theory and Practice at Scale</div>
     <div class="paper-authors">Sihwan Park*, <span class="author-me">Jihun Yun</span>*, SungYub Kim, Souvik Kundu, Eunho Yang <span class="paper-note">(*: equal contribution)</span></div>
     <div class="paper-meta"><a class="paper-link" href="https://arxiv.org/abs/2501.19099">[paper]</a></div>
@@ -71,19 +62,32 @@ Previously, I completed my Ph.D. in the Graduate School of AI at KAIST, advised 
 
 <ul class="paper-list">
   <li>
+    <div class="paper-title">Beyond Clipping: Signed Logarithmic Smoothing for Policy Optimization</div>
+    <div class="paper-authors"><span class="author-me">Jihun Yun</span>*, Sungjoon Yoon*, Beomhan Baek, Minhak Song, Jongha Jon Ryu, Kwang-Sung Jun <span class="paper-note">(*: equal contribution)</span></div>
+    <div class="paper-meta"><span class="paper-venue">NeurIPS 2026</span></div>
+  </li>
+  <li>
+    <div class="paper-title">THINKSAFE: Self-Generated Safety Alignment for Reasoning Models</div>
+    <div class="paper-authors">Seanie Lee, Sangwoo Park, Yumin Choi, Gyeongman Kim, Minki Kang, <span class="author-me">Jihun Yun</span>, Dongmin Park, Jongho Park, Sung Ju Hwang</div>
+    <div class="paper-meta"><span class="paper-venue">NeurIPS 2026</span><a class="paper-link" href="https://arxiv.org/abs/2601.23143">[paper]</a></div>
+  </li>
+  <li>
     <div class="paper-title">Pruning and Distilling Mixture-of-Experts into Dense Language Models</div>
     <div class="paper-authors">Junhyuck Kim, <span class="author-me">Jihun Yun</span>, Haechan Kim, Gyeongman Kim, Joonghyun Bae, Jaewoong Cho</div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026 AdaptFM Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2605.28207">[paper]</a></div>
+    <div class="paper-meta"><span class="paper-venue">NeurIPS 2026 (Oral)</span></div>
   </li>
   <li>
     <div class="paper-title">Uniform Spectral Growth under Factor-wise Muon Orthogonalization in Matrix Factorization and LoRA</div>
     <div class="paper-authors">Changmin Kang*, <span class="author-me">Jihun Yun</span>*, Baekrok Shin, Yeseul Cho, Chulhee Yun <span class="paper-note">(*: equal contribution)</span></div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026 HiLD Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2602.06385">[paper]</a></div>
+    <div class="paper-meta"><span class="paper-venue">NeurIPS 2026</span></div>
   </li>
   <li>
     <div class="paper-title">AMUSE: Anytime Muon with Stable Gradient Evaluation</div>
     <div class="paper-authors">Jueun Kim, Baekrok Shin, <span class="author-me">Jihun Yun</span>, Beomhan Baek, Minhak Song, Chulhee Yun</div>
     <div class="paper-meta"><span class="paper-venue">ICML 2026 HiLD Workshop</span><a class="paper-link" href="https://arxiv.org/abs/2605.22432">[paper]</a></div>
+    <div class="paper-meta"><span class="paper-venue">NeurIPS 2026 (Spotlight)</span></div>
   </li>
   <li>
     <div class="paper-title">Coverage Improvement and Fast Convergence of On-policy Preference Learning</div>
